@@ -7,7 +7,7 @@ These instructions will get you a copy of the project up and running on your loc
 
 ### Setting up local repo
 
-Use the Terminal command `git clone https://github.com/ryankontos/EdenWorldBuilder.git` to download the existing repo to your home folder. You will also need to download the "Flurry" folder from this link: https://mega.nz/#!cDQ1SKKA!0G7USvZ3Yf79QOQ6u-Gjn8G7kTNyJ8sAMcqeRy9n3q0, unzip it, and place it inside /EdenWorldBuilder/iOS.
+Use the Terminal command `git clone https://github.com/ryankontos/EdenWorldBuilder.git` to download the existing repo to your home folder. You will also need to download the "Flurry" folder from this link: https://mega.nz/#!cDQ1SKKA!0G7USvZ3Yf79QOQ6u-Gjn8G7kTNyJ8sAMcqeRy9n3q0, unzip it, and place it inside /EdenWorldBuilder/flurry.
 
 ### Uploading your local repo
 
