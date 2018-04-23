@@ -11,7 +11,7 @@ Use the Terminal command `git clone https://github.com/ryankontos/EdenWorldBuild
 
 ### Uploading your local repo
 
-After you are done making changes cd into ~/EdenWorldBuilder using `cd ~/EdenBuilder` then type `git add .` to add the changes to the resolve, then commit your changes and add a reason with `git commit -m "INSERT REASON HERE"` and finally upload with `git push -u origin master`. You can also commit using Xcode's built in Source Control features.
+After you are done making changes cd into ~/EdenWorldBuilder using `cd ~/EdenWorldBuilder` then type `git add .` to add the changes to the resolve, then commit your changes and add a reason with `git commit -m "INSERT REASON HERE"` and finally upload with `git push -u origin master`. You can also commit using Xcode's built in Source Control features.
 
 ## License
 
