@@ -1,5 +1,10 @@
-# Eden World Builder
-We are developing Eden: World Builder, a block based building game created by Ari Ronen for iOS.
+# Eden: World Builder
+This repo hosts files for Eden World Builder.
+
+# Branches
+The "development" branch containes files that are actively being worked on by the Eden community. Anyone that wants to work on this branch can.
+
+The "2.1" branch contains the files for the offical 2.1 update of Eden. Build from this branch if you want the latest officially released version.
 
 ## Getting Started
 
