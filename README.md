@@ -1,4 +1,4 @@
-# Eden Development
+# Eden World Builder
 We are developing Eden: World Builder, a block based building game created by Ari Ronen for iOS.
 
 ## Getting Started
